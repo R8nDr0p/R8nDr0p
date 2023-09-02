@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @R8nDr0p
+# Welcome to my Github Account!!!
+
+- 👋 Hi, I’m @R8nDr0p/Rain for short!
 - 👀 I’m interested in Coding websites and providing users with a UI that is super efficient and intuitive.
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, PHP, PYTHON
 - 💞️ I’m looking to collaborate on creating full-stack projects
